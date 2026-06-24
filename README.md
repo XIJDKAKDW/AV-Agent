@@ -1,1 +1,2 @@
-# AppPoet
+# The reimplementation of AppPoet
+
